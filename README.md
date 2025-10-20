@@ -53,13 +53,13 @@ A collection of journaling and self-reflection practices from various teachers a
 
 ### How it works:
 
-- **Three pages, longhand** - Write by hand (not typed). Fill three full pages.
+- **Aim for (In her words) "Three pages of longhand, stream of consciousness writing, done first thing in the morning"** - Use a pen pencil writing-utensil
+- 
+- **First thing in the morning** - Let some thoughts out before your inner critic kicks in and micromanages the scene. Let them out and capture them on the paper.
 
-- **First thing in the morning** - Do this right when you wake up, before your inner editor kicks in.
+- **Write whatever comes** - Petty complaints, to-do lists, dreams, worries, random observations, whatever
 
-- **Write whatever comes** - Petty complaints, to-do lists, dreams, worries, random observations. All fair game.
-
-- **Keep the pen moving** - Don't stop to edit or think. Your mind will slow down to match the speed of your pen. If you get stuck, write "I don't know what to write" until something else emerges.
+- **Aim to keep the pen moving** - Try not to stop to edit or think. Your mind may slow down to match the speed of the pen. If you get stuck, write "I don't know what to write" or whatever until something else emerges.
 
 ---
 
