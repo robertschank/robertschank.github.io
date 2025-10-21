@@ -1,6 +1,6 @@
 # Exercise Library
 
-A collection of journaling and self-reflection practices from various teachers and traditions. Find what resonates with you.
+A collection of journaling and self-reflection practices. Find what resonates with you.
 
 ---
 
