@@ -15,7 +15,7 @@ A collection of journaling and self-reflection practices. Find what resonates wi
 
 ### Getting to Know a Protector
 **Author:** Dick Schwartz, _No Bad Parts_  
-**Spice:** 🌶️🌶️ Hot  
+**Spice:** 🌶️🌶️🌶️ Hot  
 **Entry Point:** Emotional, Somatic  
 **Good For:** Calming intense emotions, understanding patterns, exploring your internal landscape  
 **[Full Details →](#getting-to-know-a-protector-1)**
@@ -75,7 +75,7 @@ A collection of journaling and self-reflection practices. Find what resonates wi
 
 **Heads up:** This method can uncover buried emotions or painful material. If something feels too big, pausing, reassessing, or seeking help is encouraged.
 
-**Spice Level:** 🌶️🌶️ Hot
+**Spice Level:** 🌶️🌶️🌶️ Hot
 
 **Entry Point:** Emotional, Somatic
 
