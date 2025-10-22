@@ -2,36 +2,38 @@
 title: Exercises
 layout: page
 ---
-
-### A collection of journaling and self-reflection practices. Find what resonates with you.
-
 ---
 
-## Morning Pages
-**Author:** Julia Cameron, _The Artist's Way_  
-**Spice:** 🌶️ Mild  
-**Entry Point:** Stream of consciousness  
-**Good For:** Building an inner practice, Mental clarity, Creativity  
-**[Details →](#morning-pages)**
+## Morning Pages  
+🌶️ Mild  
+
+**Good For:** Building an inner practice, clarity, creativity  
+
+**Source:** Julia Cameron, _The Artist's Way_  
+
+**[Full Summary ↓](#morning-pages-1)**
 
 ---
 
 ## Four Questions
-**Author:** Byron Katie, _Loving What Is_  
-**Spice:** 🌶️🌶️ Medium  
-**Entry Point:** Stressful Thoughts  
-**Good For:** Moving past stressful thoughts. 
-**[Details →](#anchor-link)**
+🌶️🌶️ Medium  
+
+**Good For:** Release from stressful thoughts  
+
+**Source:** Byron Katie, _Loving What Is_  
+
+**[Full Summary ↓](#anchor-link)**
 
 ---
 
 ## Getting to Know a Protector
-**Author:** Dick Schwartz, _No Bad Parts_  
-**Spice:** 🌶️🌶️🌶️ Hot  
-**Entry Point:** Emotions, Sensations
+🌶️🌶️🌶️ Hot  
+
 **Good For:** Calming intense emotions, exploring your internal landscape  
 
-**[Details →](#getting-to-know-a-protector-1)**
+**Source:** Dick Schwartz, _No Bad Parts_  
+
+**[Full Summary ↓](#getting-to-know-a-protector-1)**
 
 ---
 
@@ -55,7 +57,7 @@ layout: page
 
 - **Aim for (In her words) "Three pages of longhand, stream of consciousness writing, done first thing in the morning"** - Use a pen pencil writing-utensil
 
-- **First thing in the morning** - Let some thoughts out before your inner critic kicks in and micromanages the scene. Let them out and capture them on the paper.
+- **Before you start your day** - Let some thoughts out before your inner critic kicks in and micromanages the scene. Let them out and capture them on the paper.
 
 - **Write whatever comes** - Petty complaints, to-do lists, dreams, worries, random observations, whatever
 
@@ -79,7 +81,7 @@ layout: page
 
 **Spice Level:** 🌶️🌶️🌶️ Hot
 
-**Entry Point:** Emotional, Somatic
+**Entry Point:** Emotions, Sensations
 
 ### Steps:
 
