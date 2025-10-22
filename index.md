@@ -1,37 +1,37 @@
-# Exercise Library
+---
+title: Exercises
+layout: page
+---
 
-A collection of journaling and self-reflection practices. Find what resonates with you.
+### A collection of journaling and self-reflection practices. Find what resonates with you.
 
 ---
 
-### Morning Pages
+## Morning Pages
 **Author:** Julia Cameron, _The Artist's Way_  
 **Spice:** 🌶️ Mild  
 **Entry Point:** Stream of consciousness  
-**Good For:** Mental clarity, creativity, building a creative practice  
-**[Full Details →](#morning-pages)**
+**Good For:** Building an inner practice, Mental clarity, Creativity  
+**[Details →](#morning-pages)**
 
 ---
 
-### Getting to Know a Protector
+## Four Questions
+**Author:** Byron Katie, _Loving What Is_  
+**Spice:** 🌶️🌶️ Medium  
+**Entry Point:** Stressful Thoughts  
+**Good For:** Moving past stressful thoughts. 
+**[Details →](#anchor-link)**
+
+---
+
+## Getting to Know a Protector
 **Author:** Dick Schwartz, _No Bad Parts_  
 **Spice:** 🌶️🌶️🌶️ Hot  
-**Entry Point:** Emotional, Somatic  
-**Good For:** Calming intense emotions, understanding patterns, exploring your internal landscape  
-**[Full Details →](#getting-to-know-a-protector-1)**
+**Entry Point:** Emotions, Sensations
+**Good For:** Calming intense emotions, exploring your internal landscape  
 
----
-
-### [Your Next Exercise]
-**Author:** [Author Name]  
-**Spice:** 🌶️  
-**Entry Point:** [Type]  
-**Good For:** [Benefits]  
-**[Full Details →](#anchor-link)**
-
----
-
-## Full Exercise Instructions
+**[Details →](#getting-to-know-a-protector-1)**
 
 ---
 
@@ -54,12 +54,14 @@ A collection of journaling and self-reflection practices. Find what resonates wi
 ### How it works:
 
 - **Aim for (In her words) "Three pages of longhand, stream of consciousness writing, done first thing in the morning"** - Use a pen pencil writing-utensil
-- 
+
 - **First thing in the morning** - Let some thoughts out before your inner critic kicks in and micromanages the scene. Let them out and capture them on the paper.
 
 - **Write whatever comes** - Petty complaints, to-do lists, dreams, worries, random observations, whatever
 
 - **Aim to keep the pen moving** - Try not to stop to edit or think. Your mind may slow down to match the speed of the pen. If you get stuck, write "I don't know what to write" or whatever until something else emerges.
+
+<br/><br/>
 
 ---
 
@@ -94,7 +96,7 @@ A collection of journaling and self-reflection practices. Find what resonates wi
    - If something won't budge, work with that one instead
    - Keep going until you can approach it with curiosity or compassion
 
-6. **Talk to it like a person** - Really. Extend curiosity, compassion, appreciation. Imagine you're having a conversation with someone who matters.
+6. **Talk to it like a friend** - Extend curiosity, compassion, appreciation. Imagine you're having a conversation with someone who matters.
 
 7. **Ask and listen** - Pose these questions, then wait quietly for a response:
    - Is there something you want me to know?
@@ -104,5 +106,3 @@ A collection of journaling and self-reflection practices. Find what resonates wi
    - What do you need from me going forward?
 
 8. **Close with gratitude** - Thank the part for whatever it shared, and let it know you'll check in again.
-
- - [ ] List item
