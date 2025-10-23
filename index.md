@@ -11,7 +11,7 @@ Pick an exercise based on your day. Full instructions below.
 
 Write three pages of whatever's in your head. Clear mental clutter and unlock creativity.
 
-🌶️ Mild
+🌶️ Mild — Start here
 
 **Good For:** Building an inner practice, clarity, focus, creativity  
 
@@ -19,11 +19,11 @@ Write three pages of whatever's in your head. Clear mental clutter and unlock cr
 
 ### [Four Questions](#four-questions-full)
 
-Question a troubling thought until it loses its grip on you.
+Question a stressful thought until it loses its grip.
 
-🌶️🌶️ Medium  
+🌶️🌶️ Medium
 
-**Good For:** Release from stressful thoughts  
+**Good For:** Release from stressful thoughts, questioning your story  
 
 ---
 
@@ -31,7 +31,7 @@ Question a troubling thought until it loses its grip on you.
 
 Meet the part of you that's taking over.
 
-🌶️🌶️🌶️ Hot  
+🌶️🌶️🌶️ Hot
 
 **Good For:** Calming intense emotions, exploring your internal landscape  
 
@@ -74,10 +74,10 @@ Meet the part of you that's taking over.
 ## <a id="four-questions-full"></a> Four Questions
 **Byron Katie, Loving What Is**
 
-**Context:** Apply the four questions to a troubling thought and watch it lose its grip
+**Context:** We suffer when we argue with reality. The four questions help you stop fighting what is and find clarity in what's actually true.
 
 **Good for:**
-- Release from negative thoughts
+- Release from troubling thoughts
 - Calling yourself out on your stories
 - Exploring how the internal and external reflect each other
 
@@ -134,7 +134,9 @@ Meet the part of you that's taking over.
 
 **Entry Point:** Emotions, sensations
 
-**Heads up:** This method can uncover buried emotions or painful material. If something feels too big, pausing, reassessing, or seeking help is encouraged.
+## ⚠️
+
+**Heads up:** This method can uncover buried emotions or painful material. It may cause volatility as old patterns surface. If something feels too big, pausing, reassessing, or seeking help is encouraged.
 
 <div class="how-it-works" markdown="1"> 
 
@@ -153,7 +155,7 @@ Meet the part of you that's taking over.
    - If something won't budge, work with that one instead
    - Keep going until you can approach this part with curiosity or compassion
 
-**Talk to it like a friend** - Extend curiosity, compassion, appreciation. Imagine you're having a conversation with someone who matters.
+**Talk to it like a friend** - Extend curiosity, compassion, and appreciation. Imagine you're having a conversation with someone who matters.
 
 **On paper** - Write to it directly on the page—like writing a letter to a friend.
 
