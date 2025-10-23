@@ -47,7 +47,7 @@ Meet the part of you that's taking over.
 **Context:** Morning Pages is a daily writing practice designed to clear mental clutter and access creativity. There's no technique to master—just write whatever comes up.
 
 **Good for:**
-- Getting intrusive thoughts out of your head so you can focus
+- Relief from intrusive thoughts
 - Unlocking creativity and new ideas
 - Building a regular creative practice without perfectionism or self-judgment
 
