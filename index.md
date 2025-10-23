@@ -7,8 +7,6 @@ Pick an exercise based on your day. Full instructions below.
 
 ---
 
-<div class="exercise-summary" markdown="1"> 
-
 ### [Morning Pages](#morning-pages-full)
 
 Write three pages of whatever's in your head. Clear mental clutter and unlock creativity.
@@ -37,10 +35,6 @@ Meet the part of you that's taking over.
 
 **Good For:** Calming intense emotions, exploring your internal landscape  
 
-</div>
-
-<br />
-
 ---
 
 <br />
@@ -65,7 +59,7 @@ Meet the part of you that's taking over.
 
 ### How it works:
 
-- **Aim for "Three pages of longhand, stream of consciousness writing"** - Use a pen
+- **Aim for three pages of longhand, stream of consciousness writing**
 
 - **Before you start your day** - Give your "monkey mind" thoughts a place to exist on the paper. Maybe they'll leave you alone.
 
@@ -157,7 +151,7 @@ Meet the part of you that's taking over.
 **Check your feelings toward it** - How do you feel _towards_ this part?
    - If negative reactions show up (judgment, fear, frustration), ask those reactions to step aside for now
    - If something won't budge, work with that one instead
-   - Keep going until you can approach it with curiosity or compassion
+   - Keep going until you can approach this part with curiosity or compassion
 
 **Talk to it like a friend** - Extend curiosity, compassion, appreciation. Imagine you're having a conversation with someone who matters.
 
