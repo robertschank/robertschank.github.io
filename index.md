@@ -7,7 +7,7 @@ layout: page
 
 #### (Coming soon) We get together Sundays 9:00-9:45 AM at [meeting link](https://meet.google.com/example)
 
-See our club details [here](https://google.com)
+Check out our club details [here](/about)
 
 ---
 
