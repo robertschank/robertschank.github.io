@@ -1,7 +1,17 @@
----
+<!-- ---
 title: Exercises
 layout: page
+--- -->
+
+# Welcome
+
+#### (Coming soon) We get together Sundays 9:00-9:45 AM at [meeting link](https://meet.google.com/example)
+
+See our club details [here](https://google.com)
+
 ---
+
+# Exercises
 
 Pick an exercise based on your day. Full instructions below.
 
