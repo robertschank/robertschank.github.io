@@ -5,7 +5,7 @@ layout: page
 
 # Welcome
 
-#### (Coming soon) We get together Sundays 9:00-9:45 AM at [meeting link](https://meet.google.com/example)
+#### (Coming soon) We get together Sundays 9:00-9:30 AM Pacific Time at [meeting link](https://meet.google.com/example)
 
 Check out our club details [here](/about)
 
@@ -23,7 +23,7 @@ Write three pages of whatever's in your head. Clear mental clutter and unlock cr
 
 🌶️ Mild — Start here
 
-**Good For:** Building an inner practice, clarity, focus, creativity  
+**Good For:** Building an inner practice, clarity, focus 
 
 ---
 
@@ -33,7 +33,7 @@ Question a stressful thought until it loses its grip.
 
 🌶️🌶️ Medium
 
-**Good For:** Release from stressful thoughts, questioning your story  
+**Good For:** Release from stressful thoughts, questioning your stories  
 
 ---
 
@@ -73,7 +73,7 @@ Meet the part of you that's taking over.
 
 - **Before you start your day** - Give your "monkey mind" thoughts a place to exist on the paper. Maybe they'll leave you alone.
 
-- **Write whatever comes:** Petty complaints, to-do lists, dreams, worries, random observations. This is meant to be messy and unfiltered. This is a chance for you to accept anything your mind comes up with. There's no bad art here.
+- **Write whatever comes:** Petty complaints, to-do lists, dreams, worries, random observations. This is meant to be messy and unfiltered. It's a chance for you to accept anything your mind comes up with. There's no bad art here.
 
 - **Keep the pen moving** - Try not to stop to edit or think. Allow your mind to slow down to match the speed of the pen, and relay whatever comes up onto the paper. If you're stuck, write about being stuck until something else emerges.
 
@@ -84,7 +84,7 @@ Meet the part of you that's taking over.
 ## <a id="four-questions-full"></a> Four Questions
 **Byron Katie, Loving What Is**
 
-**Context:** We suffer when we argue with reality. The four questions help you stop fighting what is and find clarity in what's actually true.
+**Context:** "The Work" explores how we suffer when our thoughts argue with reality. The four questions help you investigate those thoughts and shift your perspective.
 
 **Good for:**
 - Release from troubling thoughts
@@ -93,7 +93,7 @@ Meet the part of you that's taking over.
 
 **Spice Level:** 🌶️🌶️ Medium
 
-**Entry Point:** Negative thoughts
+**Entry Point:** Recurring thoughts
 
 <div class="how-it-works" markdown="1"> 
 
@@ -118,9 +118,9 @@ Meet the part of you that's taking over.
 
 **Find the opposites** - Flip your original statement in different directions:
 
-- To the opposite: "He does respect me"
-- To yourself: "I don't respect myself"
-- To the other person/thing: "I don't respect him"
+- To the opposite: "He *does* respect me"
+- To yourself: "*I* don't respect myself"
+- To the other person/thing: "*I* don't respect *him*"
 
 **Find three examples** - For each turnaround that resonates, find three specific examples of how it might be as true or truer than your original thought.
 
@@ -138,17 +138,14 @@ Meet the part of you that's taking over.
 **Good for:**
 - Calming intense emotions in the moment
 - Understanding patterns or reactions that confuse you
-- Beginning to explore your internal landscape (can lead to deeper territory)
+- Exploring your internal landscape (can lead to deeper territory)
 
 **Spice Level:** 🌶️🌶️🌶️ Hot
 
 **Entry Point:** Emotions, sensations
 
-## ⚠️
-
-**Heads up:** This method can uncover buried emotions or painful material. It may cause volatility as old patterns surface. If something feels too big, pausing, reassessing, or seeking help is encouraged.
-
 <div class="how-it-works" markdown="1"> 
+**⚠️ Heads up:** This method can uncover buried emotions or painful material, leading to volatility. If something feels too big; pausing, reassessing, or seeking help is encouraged.
 
 ### Steps:
 
@@ -165,15 +162,15 @@ Meet the part of you that's taking over.
    - If something won't budge, work with that one instead
    - Keep going until you can approach this part with curiosity or compassion
 
-**Talk to it like a friend** - Extend curiosity, compassion, and appreciation. Imagine you're having a conversation with someone who matters.
+**Talk to it** - You can speak to this part silently, out loud, or write to it on paper (recommended). Extend curiosity, compassion, and appreciation. Imagine you're having a conversation with someone who matters.
 
-**On paper** - Write to it directly on the page—like writing a letter to a friend.
-
-**Ask and listen** - Pose these questions, then wait quietly for a response. You might not get any responses, just showing up for them is valuable
-   - Is there something you want me to know?
+**Ask and listen** - Pose each question below, one at a time, and wait quietly for a response. You might get clear responses, vague impressions, or nothing at all. The act of asking and listening is the practice.
+   - Is there anything you'd like me to know?
    - What are you protecting me from?
    - Pause and recognize this part's good intention. Offer it some gratitude. Notice how it responds.
    - What do you need from me going forward?
+
+**Write what comes** - If images, words, or sensations arise, jot them down.
 
 **Close with gratitude** - Thank the part for whatever it allowed or shared, and let it know you'll check in again.
 
