@@ -1,17 +1,20 @@
 <!-- ---
-title: Exercises
+title: About
 layout: page
 --- -->
 
 # Welcome
 
-#### (Coming soon) We get together Sundays 9:00-9:30 AM Pacific Time at [meeting link](https://meet.google.com/example)
+**Club Meetings:** Sundays 9:00-9:30 AM PT  
+(Coming soon) [Join on Google Meet](https://meet.google.com/dfy-ytkx-qey)
 
-Check out our club details [here](/about)
+Discord community coming soon
+
+Club details [here](/about)
 
 ---
 
-# Exercises
+# Exercises Quick View
 
 Pick an exercise based on your day. Full instructions below.
 
@@ -19,11 +22,11 @@ Pick an exercise based on your day. Full instructions below.
 
 ### [Morning Pages](#morning-pages-full)
 
-Write three pages of whatever's in your head. Clear mental clutter and unlock creativity.
+Write three pages of whatever's in your head and clear mental clutter
 
 🌶️ Mild — Start here
 
-**Good For:** Building an inner practice, clarity, focus 
+**Good For:** Building an inner practice, creativity, clarity, focus 
 
 ---
 
@@ -39,7 +42,7 @@ Question a stressful thought until it loses its grip.
 
 ### [Meet a Protector](#meet-a-protector-full)
 
-Meet the part of you that's taking over.
+Meet the part of you that takes over.
 
 🌶️🌶️🌶️ Hot
 
@@ -51,14 +54,20 @@ Meet the part of you that's taking over.
 
 ---
 
+# Spice Levels
+
+---
+
+# Exercises
+
 ## <a id="morning-pages-full"></a> Morning Pages
-**Julia Cameron, The Artist's Way**
+[**Julia Cameron, The Artist's Way**](https://juliacameronlive.com/books-by-julia/)
 
 **Context:** Morning Pages is a daily writing practice designed to clear mental clutter and access creativity. There's no technique to master—just write whatever comes up.
 
 **Good for:**
-- Relief from intrusive thoughts
-- Unlocking creativity and new ideas
+- Clarity, focus
+- Creativity and new ideas
 - Building a regular creative practice without perfectionism or self-judgment
 
 **Spice Level:** 🌶️ Mild
@@ -73,7 +82,7 @@ Meet the part of you that's taking over.
 
 - **Before you start your day** - Give your "monkey mind" thoughts a place to exist on the paper. Maybe they'll leave you alone.
 
-- **Write whatever comes:** Petty complaints, to-do lists, dreams, worries, random observations. This is meant to be messy and unfiltered. It's a chance for you to accept anything your mind comes up with. There's no bad art here.
+- **Write whatever comes:** Petty complaints, to-do lists, dreams, worries, random observations. This is meant to be messy and unfiltered. It's a chance for you to accept anything your mind comes up with.
 
 - **Keep the pen moving** - Try not to stop to edit or think. Allow your mind to slow down to match the speed of the pen, and relay whatever comes up onto the paper. If you're stuck, write about being stuck until something else emerges.
 
@@ -82,18 +91,18 @@ Meet the part of you that's taking over.
 ---
 
 ## <a id="four-questions-full"></a> Four Questions
-**Byron Katie, Loving What Is**
+[**Byron Katie, Loving What Is**](https://thework.com/books/)
 
 **Context:** "The Work" explores how we suffer when our thoughts argue with reality. The four questions help you investigate those thoughts and shift your perspective.
 
 **Good for:**
-- Release from troubling thoughts
+- Relief from intrusive thoughts
 - Calling yourself out on your stories
 - Exploring how the internal and external reflect each other
 
 **Spice Level:** 🌶️🌶️ Medium
 
-**Entry Point:** Recurring thoughts
+**Entry Point:** Thoughts
 
 <div class="how-it-works" markdown="1"> 
 
@@ -108,9 +117,9 @@ Meet the part of you that's taking over.
 #### The Four Questions
 1. **Is it true?** - Yes or no answers only. Sit with it for a moment if you're answering with more than a yes or a no.
 
-1. **Can you absolutely know that it's true?** - Can you know with absolute certainty?
+1. **Can you absolutely know that it's true?** - Can you know with absolute certainty? Again, yes or no answers only
 
-1. **How do you react, what happens, when you believe that thought?** - Notice everything. How does it feel in your body? How do you treat yourself and others? What images play in your mind? Stay on your original thought, don't let your mind take off on a new one.
+1. **How do you react, what happens, when you believe that thought?** - Notice everything. How does it feel in your body? How do you see yourself and others? What images play in your mind? Stay on your original thought, don't let your mind take off on a new one.
 
 1. **Who would you be without that thought?** - Imagine yourself in the same situation, but without this belief. Who are you? How do you feel?
 
@@ -124,20 +133,20 @@ Meet the part of you that's taking over.
 
 **Find three examples** - For each turnaround that resonates, find three specific examples of how it might be as true or truer than your original thought.
 
-**Sit with it** - Notice what shifts. You're not trying to force yourself to believe anything new. You're just making space for your mind to see things differently.
+**Sit with it** - Notice the difference in your state between question 3 and question 4. Or take a moment with the turnarounds. Make a little space for your mind to see things differently.
 
 </div> 
 
 ---
 
 ## <a id="meet-a-protector-full"></a> Meet a Protector
-**Dick Schwartz, No Bad Parts**
+[**Dick Schwartz, No Bad Parts**](https://ifs-institute.com/nobadparts)
 
 **Context:** Parts Work (Internal Family Systems) views the mind as made up of different parts, each with its own consciousness and behavior. Sometimes these parts take over to protect us from pain or threat.
 
 **Good for:**
 - Calming intense emotions in the moment
-- Understanding patterns or reactions that confuse you
+- Understanding patterns or reactions
 - Exploring your internal landscape (can lead to deeper territory)
 
 **Spice Level:** 🌶️🌶️🌶️ Hot
@@ -145,7 +154,7 @@ Meet the part of you that's taking over.
 **Entry Point:** Emotions, sensations
 
 <div class="how-it-works" markdown="1"> 
-**⚠️ Heads up:** This method can uncover buried emotions or painful material, leading to volatility. If something feels too big; pausing, reassessing, or seeking help is encouraged.
+**⚠️ Heads up:** This method can uncover buried emotions or painful material. If something feels too big; pausing, reassessing, or seeking help is encouraged.
 
 ### Steps:
 
@@ -162,7 +171,7 @@ Meet the part of you that's taking over.
    - If something won't budge, work with that one instead
    - Keep going until you can approach this part with curiosity or compassion
 
-**Talk to it** - You can speak to this part silently, out loud, or write to it on paper (recommended). Extend curiosity, compassion, and appreciation. Imagine you're having a conversation with someone who matters.
+**Talk to it** - You can speak to this part silently, out loud, or write to it on paper. Extend curiosity, compassion, and appreciation. Imagine you're having a conversation with someone who matters.
 
 **Ask and listen** - Pose each question below, one at a time, and wait quietly for a response. You might get clear responses, vague impressions, or nothing at all. The act of asking and listening is the practice.
    - Is there anything you'd like me to know?
@@ -170,7 +179,7 @@ Meet the part of you that's taking over.
    - Pause and recognize this part's good intention. Offer it some gratitude. Notice how it responds.
    - What do you need from me going forward?
 
-**Write what comes** - If images, words, or sensations arise, jot them down.
+**Write what comes** - If images, words, or sensations arise, jot them down. Or write out the whole conversation.
 
 **Close with gratitude** - Thank the part for whatever it allowed or shared, and let it know you'll check in again.
 
