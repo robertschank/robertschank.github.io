@@ -199,4 +199,4 @@ It sounds too simple (it is simple). The practice works by slowing down enough t
 
 </div>
 
-**Modified from the original:** Writing *to* your parts, and drawing them can help along the ability to step back, observe, and interact. The original exercise in No Bad Parts could be described as closer to a meditation than a journaling method.
+**Note:** The original exercise in *No Bad Parts* is more meditation-based. I've adapted it here to include writing and drawing, which can help you step back and observe rather than staying blended with the part.
