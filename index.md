@@ -5,7 +5,7 @@ layout: page
 
 # Welcome
 
-**Club Meetings:** Sundays 9:00-9:30 AM PT  
+**Club Meetings: Sundays 9-9:30 AM** Pacific Time  
 (Coming soon) [Join on Google Meet](https://meet.google.com/dfy-ytkx-qey)
 
 Discord community coming soon
@@ -48,13 +48,15 @@ Meet the part of you that takes over.
 
 **Good For:** Calming intense emotions, exploring your internal landscape  
 
----
-
 <br />
 
 ---
 
 # Exercises
+
+<br />
+
+---
 
 ## <a id="morning-pages-full"></a> Morning Pages
 [**Julia Cameron, The Artist's Way**](https://juliacameronlive.com/books-by-julia/)
@@ -83,6 +85,10 @@ Meet the part of you that takes over.
 - **Keep the pen moving** - Try not to stop to edit or think. Allow your mind to slow down to match the speed of the pen, and relay whatever comes up onto the paper. If you're stuck, write about being stuck until something else emerges.
 
 </div> 
+
+<br />
+
+<br />
 
 ---
 
@@ -119,7 +125,7 @@ It sounds too simple (it is simple). The practice works by slowing down enough t
 
 1. **How do you react, what happens, when you believe that thought?** - Notice everything. How does it feel in your body? How do you see yourself and others? What images play in your mind? 
 
-   Stay with your original thought. If you find yourself thinking "[Original thought], *and that means* _____," you've jumped to a new thought. Come back to the first one.
+   Stay with your original thought. If you find yourself thinking "[Original thought], *and that means _____*," you've jumped to a new thought. Come back to the first one.
 
 1. **Who would you be without that thought?** - Imagine yourself in the same situation, but without this belief. Who are you? How do you feel?
 
@@ -137,12 +143,18 @@ It sounds too simple (it is simple). The practice works by slowing down enough t
 
 </div> 
 
+**Going Further:** Check out Byron Katie's "how to" page [here](https://thework.com/instruction-the-work-byron-katie/#additional-resources-documents).
+
+<br />
+
+<br />
+
 ---
 
 ## <a id="meet-a-protector-full"></a> Meet a Protector
 [**Dick Schwartz, No Bad Parts**](https://ifs-institute.com/nobadparts)
 
-**Context:** Parts Work (Internal Family Systems) views the mind as made up of different parts, each with its own consciousness and behavior. Sometimes a strong emotion or pattern takes over. This helps you step back, get curious about what's happening, and understand what it's trying to protect you from.
+**Context:** Parts Work (Internal Family Systems) views the mind as made up of different parts, each with its own consciousness and behavior. Sometimes a strong emotion or pattern takes over. This exercise helps you step back, get curious about what's happening, and understand what it's trying to protect you from.
 
 **Good for:**
 - Calming intense emotions
@@ -154,11 +166,9 @@ It sounds too simple (it is simple). The practice works by slowing down enough t
 **Entry Point:** Emotions, sensations
 
 <div class="how-it-works" markdown="1"> 
-**⚠️ Heads up:** This method can uncover buried emotions or painful material. If something feels too big; pausing, reassessing, or seeking help is encouraged.  
+**⚠️ Heads up:** This method can uncover buried emotions or painful material. If something feels too big; pausing, reassessing, and seeking help is encouraged.  
 
 <br />
-
-**Side note:** "Getting to Know a Protector" in No Bad Parts doesn't involve any writing, it's a mental exercise. Drawing your parts and writing to them can help you step back, observe, and interact.
 
 ### Steps:
 
@@ -175,12 +185,12 @@ It sounds too simple (it is simple). The practice works by slowing down enough t
    - If something won't budge, work with that one instead
    - Keep going until you can approach this part with curiosity or compassion
 
-**Talk to it** - You can speak to this part silently, out loud, or write to it on paper. Extend curiosity, compassion, and appreciation. Imagine you're having a conversation with someone who matters.
+**Talk to it** - You can speak to this part silently, out loud, or write to it on paper. Extend curiosity, compassion, and appreciation. The idea is you're having a conversation with someone who matters.
 
 **Ask and listen** - Pose each question below, one at a time, and wait quietly for a response. You might get clear responses, vague impressions, or nothing at all. The act of asking and listening is the practice.
    - Is there anything you'd like me to know?
    - What are you protecting me from?
-   - Pause and recognize this part's good intention. Offer it some gratitude. Notice how it responds.
+   - Pause and recognize this part's good intention. Offer some gratitude. Notice how it responds.
    - What do you need from me going forward?
 
 **Write what comes** - If images, words, or sensations arise, jot them down. Or write the whole conversation.
@@ -188,3 +198,5 @@ It sounds too simple (it is simple). The practice works by slowing down enough t
 **Close with gratitude** - Thank the part for whatever it allowed or shared, and let it know you'll check in again.
 
 </div>
+
+**Modified from the original:** Writing *to* your parts, and drawing them can help along the ability to step back, observe, and interact. The original exercise in No Bad Parts could be described as closer to a meditation than a journaling method.
