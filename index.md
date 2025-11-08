@@ -22,7 +22,7 @@ Pick an exercise based on your day. Full instructions below.
 
 ### [Morning Pages](#morning-pages-full)
 
-Write three pages of whatever's in your head and clear mental clutter
+Write three pages of whatever's in your head.
 
 🌶️ Mild — Start here
 
@@ -54,10 +54,6 @@ Meet the part of you that takes over.
 
 ---
 
-# Spice Levels
-
----
-
 # Exercises
 
 ## <a id="morning-pages-full"></a> Morning Pages
@@ -67,7 +63,7 @@ Meet the part of you that takes over.
 
 **Good for:**
 - Clarity, focus
-- Creativity and new ideas
+- Creativity, new ideas
 - Building a regular creative practice without perfectionism or self-judgment
 
 **Spice Level:** 🌶️ Mild
@@ -95,9 +91,11 @@ Meet the part of you that takes over.
 
 **Context:** "The Work" explores how we suffer when our thoughts argue with reality. The four questions help you investigate those thoughts and shift your perspective.
 
+It sounds too simple (it is simple). The practice works by slowing down enough to actually feel the difference between believing a thought and questioning it.
+
 **Good for:**
 - Relief from intrusive thoughts
-- Calling yourself out on your stories
+- Questioning your stories
 - Exploring how the internal and external reflect each other
 
 **Spice Level:** 🌶️🌶️ Medium
@@ -112,14 +110,16 @@ Meet the part of you that takes over.
 
 **Pick a thought** - Start by pointing your finger outward. Choose a statement about someone or something that's bothering you: "Charlie doesn't respect me,"  "My boss is unfair." Don't start with yourself ("I'm not good enough")—that comes later.
 
-**Write it down simply** — as few words as possible while keeping the original meaning
+**Write it down simply** — With as few words as possible while keeping the original meaning
 
 #### The Four Questions
 1. **Is it true?** - Yes or no answers only. Sit with it for a moment if you're answering with more than a yes or a no.
 
-1. **Can you absolutely know that it's true?** - Can you know with absolute certainty? Again, yes or no answers only
+1. **Can you absolutely know that it's true?** - Can you know with absolute certainty? Again, yes or no only
 
-1. **How do you react, what happens, when you believe that thought?** - Notice everything. How does it feel in your body? How do you see yourself and others? What images play in your mind? Stay on your original thought, don't let your mind take off on a new one.
+1. **How do you react, what happens, when you believe that thought?** - Notice everything. How does it feel in your body? How do you see yourself and others? What images play in your mind? 
+
+   Stay with your original thought. If you find yourself thinking "[Original thought], *and that means* _____," you've jumped to a new thought. Come back to the first one.
 
 1. **Who would you be without that thought?** - Imagine yourself in the same situation, but without this belief. Who are you? How do you feel?
 
@@ -133,7 +133,7 @@ Meet the part of you that takes over.
 
 **Find three examples** - For each turnaround that resonates, find three specific examples of how it might be as true or truer than your original thought.
 
-**Sit with it** - Notice the difference in your state between question 3 and question 4. Or take a moment with the turnarounds. Make a little space for your mind to see things differently.
+**Sit with it** - Notice the difference in your state between question 3 and question 4. Or take a moment with the turnarounds. Leave a little space for your mind to see things differently.
 
 </div> 
 
@@ -142,19 +142,23 @@ Meet the part of you that takes over.
 ## <a id="meet-a-protector-full"></a> Meet a Protector
 [**Dick Schwartz, No Bad Parts**](https://ifs-institute.com/nobadparts)
 
-**Context:** Parts Work (Internal Family Systems) views the mind as made up of different parts, each with its own consciousness and behavior. Sometimes these parts take over to protect us from pain or threat.
+**Context:** Parts Work (Internal Family Systems) views the mind as made up of different parts, each with its own consciousness and behavior. Sometimes a strong emotion or pattern takes over. This helps you step back, get curious about what's happening, and understand what it's trying to protect you from.
 
 **Good for:**
-- Calming intense emotions in the moment
+- Calming intense emotions
 - Understanding patterns or reactions
-- Exploring your internal landscape (can lead to deeper territory)
+- Exploring your internal landscape
 
 **Spice Level:** 🌶️🌶️🌶️ Hot
 
 **Entry Point:** Emotions, sensations
 
 <div class="how-it-works" markdown="1"> 
-**⚠️ Heads up:** This method can uncover buried emotions or painful material. If something feels too big; pausing, reassessing, or seeking help is encouraged.
+**⚠️ Heads up:** This method can uncover buried emotions or painful material. If something feels too big; pausing, reassessing, or seeking help is encouraged.  
+
+<br />
+
+**Side note:** "Getting to Know a Protector" in No Bad Parts doesn't involve any writing, it's a mental exercise. Drawing your parts and writing to them can help you step back, observe, and interact.
 
 ### Steps:
 
@@ -167,7 +171,7 @@ Meet the part of you that takes over.
 **Locate it** - Where do you sense it in or around your body? Feel free to draw some representation of it on paper. A scribble is great.
 
 **Check your feelings toward it** - How do you feel _towards_ this part?
-   - If negative reactions show up (judgment, fear, frustration), ask those reactions to step aside for now
+   - If negative reactions show up (judgment, fear, anger), ask those reactions to step aside for now
    - If something won't budge, work with that one instead
    - Keep going until you can approach this part with curiosity or compassion
 
@@ -179,7 +183,7 @@ Meet the part of you that takes over.
    - Pause and recognize this part's good intention. Offer it some gratitude. Notice how it responds.
    - What do you need from me going forward?
 
-**Write what comes** - If images, words, or sensations arise, jot them down. Or write out the whole conversation.
+**Write what comes** - If images, words, or sensations arise, jot them down. Or write the whole conversation.
 
 **Close with gratitude** - Thank the part for whatever it allowed or shared, and let it know you'll check in again.
 
