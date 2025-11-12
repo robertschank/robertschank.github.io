@@ -6,6 +6,7 @@ layout: page
 # Welcome
 
 **Club Meetings: Sundays 9-9:30 AM** Pacific Time  
+>   Mostly check-ins & journaling together  
 (Coming soon) [Join on Google Meet](https://meet.google.com/dfy-ytkx-qey)
 
 Discord community coming soon
@@ -22,7 +23,7 @@ Pick an exercise based on your day. Full instructions below.
 
 ### [Morning Pages](#morning-pages-full)
 
-Write three pages of whatever's in your head.
+Put whatever's in your head on paper.
 
 🌶️ Mild — Start here
 
@@ -32,7 +33,7 @@ Write three pages of whatever's in your head.
 
 ### [Four Questions](#four-questions-full)
 
-Question a stressful thought until it loses its grip.
+Question a thought until it loses its grip.
 
 🌶️🌶️ Medium
 
@@ -42,11 +43,14 @@ Question a stressful thought until it loses its grip.
 
 ### [Meet a Protector](#meet-a-protector-full)
 
-Meet the part of you that takes over.
+Get to know the part of you that takes over.
 
 🌶️🌶️🌶️ Hot
 
-**Good For:** Calming intense emotions, exploring your internal landscape  
+**Good For:**
+   - Calming intense emotions
+   - Exploring your internal landscape
+   - Processing something big
 
 <br />
 
@@ -61,12 +65,12 @@ Meet the part of you that takes over.
 ## <a id="morning-pages-full"></a> Morning Pages
 [**Julia Cameron, The Artist's Way**](https://juliacameronlive.com/books-by-julia/)
 
-**Context:** Morning Pages is a daily writing practice designed to clear mental clutter and access creativity. There's no technique to master—just write whatever comes up.
+**Context:** Morning Pages is a daily writing practice designed to clear mental clutter and access creativity. There's no ideal technique—just write whatever comes up.
 
 **Good for:**
 - Clarity, focus
 - Creativity, new ideas
-- Building a regular creative practice without perfectionism or self-judgment
+- Building a creative practice without perfectionism or self-judgment
 
 **Spice Level:** 🌶️ Mild
 
@@ -76,13 +80,13 @@ Meet the part of you that takes over.
 
 ### How it works:
 
-- **Aim for three pages of longhand, stream of consciousness writing**
+- **Aim for three pages of longhand, stream of consciousness writing** - Three pages can be a lot, anything counts.
 
-- **Before you start your day** - Give your "monkey mind" thoughts a place to exist on the paper. Maybe they'll leave you alone.
+- **Before you start your day** - Give your monkey-mind thoughts a place to exist on paper. Maybe they'll leave you alone.
 
 - **Write whatever comes:** Petty complaints, to-do lists, dreams, worries, random observations. This is meant to be messy and unfiltered. It's a chance for you to accept anything your mind comes up with.
 
-- **Keep the pen moving** - Try not to stop to edit or think. Allow your mind to slow down to match the speed of the pen, and relay whatever comes up onto the paper. If you're stuck, write about being stuck until something else emerges.
+- **Keep the pen moving** - Try not to stop to edit or think. Let your mind and the pen find their pace. If you're stuck, write about being stuck until something else comes up.
 
 </div> 
 
@@ -125,7 +129,7 @@ It sounds too simple (it is simple). The practice works by slowing down enough t
 
 1. **How do you react, what happens, when you believe that thought?** - Notice everything. How does it feel in your body? How do you see yourself and others? What images play in your mind? 
 
-   Stay with your original thought. If you find yourself thinking "[Original thought], *and that means _____*," you've jumped to a new thought. Come back to the first one.
+   Stay with your original thought. You might find yourself thinking "[Original thought], *and that means _____*." A new thought is filling in the blank. Jot it down for later if you like, but for now come back to the first one.
 
 1. **Who would you be without that thought?** - Imagine yourself in the same situation, but without this belief. Who are you? How do you feel?
 
@@ -137,9 +141,9 @@ It sounds too simple (it is simple). The practice works by slowing down enough t
 - To yourself: "*I* don't respect myself"
 - To the other person/thing: "*I* don't respect *him*"
 
-**Find three examples** - For each turnaround that resonates, find three specific examples of how it might be as true or truer than your original thought.
+**Find three examples** - For each turnaround that resonates, find three specific examples of how it might be as true, or truer than your original thought.
 
-**Sit with it** - Notice the difference in your state between question 3 and question 4. Or take a moment with the turnarounds. Leave a little space for your mind to see things differently.
+**Sit with it** - Notice the difference in your state between question 3 and question 4. Take a moment with the turnarounds. Leave a little space for your mind to see things differently.
 
 </div> 
 
@@ -158,8 +162,9 @@ It sounds too simple (it is simple). The practice works by slowing down enough t
 
 **Good for:**
 - Calming intense emotions
-- Understanding patterns or reactions
 - Exploring your internal landscape
+- Understanding patterns or reactions
+- Processing something big
 
 **Spice Level:** 🌶️🌶️🌶️ Hot
 
@@ -199,4 +204,4 @@ It sounds too simple (it is simple). The practice works by slowing down enough t
 
 </div>
 
-**Note:** The original exercise in *No Bad Parts* is more meditation-based. I've adapted it here to include writing and drawing, which can help you step back and observe rather than staying blended with the part.
+**Note:** The original exercise in *No Bad Parts* is more meditation-based. I tweaked it here to include writing and drawing, which can help you step back and observe.
