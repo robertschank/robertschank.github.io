@@ -3,19 +3,22 @@ title: About
 layout: page
 --- -->
 
-# Welcome
+# Welcome  
 
-**Club Meetings: Sundays 9-9:30 AM** Pacific Time  
->   Mostly check-ins & journaling together  
-(Coming soon) [Join on Google Meet](https://meet.google.com/dfy-ytkx-qey)
+**Sunday Meetings: Sundays 9-9:30 AM** Pacific Time  
 
-Discord community coming soon
+* Check-ins & journaling together  
+* (Coming soon) [Join on Google Meet](https://meet.google.com/dfy-ytkx-qey)
 
-Club details [here](/about)
+**Discord Community:**  
+
+* [Join the server](https://discord.gg/tWQx3pxHpN) to learn more
+
+<br />
 
 ---
 
-# Exercises Quick View
+# <a id="exercises-quick-view"></a>Exercises Quick View
 
 Pick an exercise based on your day. Full instructions below.
 
