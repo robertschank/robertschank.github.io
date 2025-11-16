@@ -11,7 +11,7 @@ After some issues with actually doing the work, I found it helpful to minimize d
 
 So this is my attempt at distilling their work into a life-friendly tool: three core practices and a group, because we seem to do better together.
 
-The exercises are simple. The depth comes from showing up consistently and letting them do their thing. This is what I use, and what I wish I had when I started.
+The exercises are simple, the depth comes from showing up and letting them do their thing. This is what I use, and what I wish I had when I started.
 
 If you're interested in working towards authenticity—maybe it's for you.
 
@@ -37,4 +37,4 @@ Thanks for coming by.
 
 Why journaling?
 
-I don't love journaling, but it seems to work. Something about catching the swirling action on paper makes it easier to see what you're working with.
+I don't love journaling itself, but it seems to work. Something about catching the action on paper makes it easier to see what you're working with.
