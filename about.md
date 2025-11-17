@@ -37,4 +37,4 @@ Thanks for coming by.
 
 Why journaling?
 
-I don't love journaling itself, but it seems to work. Something about catching the action on paper makes it easier to see what you're working with.
+I don't love journaling, but it seems to work. Something about catching the action on paper makes it easier to see what you're working with.

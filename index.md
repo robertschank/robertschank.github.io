@@ -3,11 +3,15 @@ title: About
 layout: page
 --- -->
 
-# Welcome  
+# Welcome
+
+A space for reflective writing and inner-work.
+
+We're working on it as we go.
 
 **Sunday Meetings: Sundays 9-9:30 AM** Pacific Time  
 
-* Check-ins & journaling together  
+* Check-ins / open discussions / journaling together
 * (Coming soon) [Join on Google Meet](https://meet.google.com/dfy-ytkx-qey)
 
 **Discord Community:**  
@@ -15,6 +19,10 @@ layout: page
 * [Join the server](https://discord.gg/tWQx3pxHpN) to learn more
 
 <br />
+
+---
+
+
 
 ---
 
