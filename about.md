@@ -15,26 +15,27 @@ The exercises are simple, the depth comes from showing up and letting them do th
 
 If you're interested in working towards authenticity—maybe it's for you.
 
-* [Three exercises](/index#exercises-quick-view)
-* [Weekly Sunday meetings](https://meet.google.com/dfy-ytkx-qey)
+* [Three exercises](/exercises)
+* [Weekly Sunday meetings](https://meet.google.com/dfy-ytkx-qey) (Coming soon)
 * [Discord community](https://discord.gg/tWQx3pxHpN)
 <!-- * Three exercises - free (they're not mine) -->
 <!-- * Weekly Sunday meetings - free -->
 <!-- * Discord community - $4/month -->
 
-
 ---
 
 <br />
 
-<img src="/assets/images/bob_bartending.jpg" alt="About-page-self-photo" width="300">
+<img src="/assets/images/bob_bartending.jpg" alt="About-page-self-photo" width="285">
 
 I go by Bob,
 
 Thanks for coming by.
 
+<br />
+
 ---
 
 Why journaling?
 
-I don't love journaling, but it seems to work. Something about catching the action on paper makes it easier to see what you're working with.
+Something about catching the action on paper makes it easier to see what you're working with.
