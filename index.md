@@ -37,16 +37,15 @@ Pick an exercise based on your day.
 
 ### [Morning Pages](/exercises#morning-pages-full)
 
-<img 
-   class="exercise-book-cover"
-   src="/assets/images/artist's_way.jpg"
-   alt="Artist's_Way_Book_Cover">
+[Julia Cameron, *The Artist's Way*](https://juliacameronlive.com/books-by-julia/)
 
 Put whatever's in your head on paper.
 
 🌶️ Mild — Start here
 
 **Good For:** Building an inner practice, creativity, clarity, focus 
+
+<br />
 
 </div>
 
@@ -56,16 +55,15 @@ Put whatever's in your head on paper.
 
 ### [Four Questions](/exercises#four-questions-full)
 
-<img 
-   class="exercise-book-cover"
-   src="/assets/images/loving_what_is_cover.jpeg"
-   alt="Loving_What_Is_Book_Cover">
+[Byron Katie, *Loving What Is*](https://thework.com/books/)
 
 Question a thought until it loses its grip.
 
 🌶️🌶️ Medium
 
 **Good For:** Release from stressful thoughts, questioning your stories  
+
+<br />
 
 </div>
 
@@ -75,10 +73,7 @@ Question a thought until it loses its grip.
 
 ### [Meet a Protector](/exercises#meet-a-protector-full)
 
-<img 
-   class="exercise-book-cover"
-   src="/assets/images/No_Bad_Parts_Cover.jpg"
-   alt="No_Bad_Parts_Book_Cover">
+[Dick Schwartz, *No Bad Parts*](https://ifs-institute.com/nobadparts)
 
 Get to know the part of you that takes over.
 

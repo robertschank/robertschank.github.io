@@ -34,25 +34,29 @@ h1, h2, h3, h4, h5, h6 {
   padding: 20px 0;
 }
 
+h3 {
+  font-size: 21px !important;
+  font-weight: 600;
+  margin-bottom: 0.3em;
+}
+
 .exercise-quick-view {
-  overflow: auto; /* Keeps the floated image contained */
-  margin-bottom: 2rem;
+  h3 {
+    margin-bottom: 0.1em;
+  }
+
+  h3 + p {
+    margin-top: 0;
+  }
 }
 
-.exercise-book-cover {
-  width: 130px;
-  height: auto;
-  float: right;
-  margin-left: 1rem;
-  margin-bottom: 1rem;
-}
+.exercises-detailed {
+  h2 {
+    margin-bottom: 0.1em;
+  }
 
-/* Mobile: stack the image on top */
-@media (max-width: 640px) {
-  .exercise-book-cover {
-    float: none;
-    display: block;
-    margin: 0 auto 1rem auto; /* Centers it and adds space below */
+  h2 + p {
+    margin-top: 0;
   }
 }
 

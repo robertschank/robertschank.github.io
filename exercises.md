@@ -46,8 +46,10 @@ Get to know the part of you that takes over.
 ---
 ---
 
+<div class="exercises-detailed" markdown="1">
+
 ## <a id="morning-pages-full"></a> Morning Pages
-From: [**Julia Cameron, The Artist's Way**](https://juliacameronlive.com/books-by-julia/)
+[Julia Cameron, *The Artist's Way*](https://juliacameronlive.com/books-by-julia/)
 
 **Context:** Morning Pages is a daily writing practice designed to clear mental clutter and access creativity. There's no ideal technique—just write whatever comes up.
 
@@ -83,7 +85,7 @@ From: [**Julia Cameron, The Artist's Way**](https://juliacameronlive.com/books-b
 ---
 
 ## <a id="four-questions-full"></a> Four Questions
-From: [**Byron Katie, Loving What Is**](https://thework.com/books/)
+[Byron Katie, *Loving What Is*](https://thework.com/books/)
 
 **Context:** "The Work" explores how we suffer when our thoughts argue with reality. The four questions help you investigate those thoughts and shift your perspective.
 
@@ -144,7 +146,7 @@ It sounds too simple (it is simple). The practice works by slowing down enough t
 ---
 
 ## <a id="meet-a-protector-full"></a> Meet a Protector
-From: [**Dick Schwartz, No Bad Parts**](https://ifs-institute.com/nobadparts)
+[Dick Schwartz, *No Bad Parts*](https://ifs-institute.com/nobadparts)
 
 **Context:** Parts Work (Internal Family Systems) views the mind as made up of different parts, each with its own consciousness and behavior. Sometimes a strong emotion or pattern takes over. This exercise helps you step back, get curious about what's happening, and understand what it's trying to protect you from.
 
@@ -195,3 +197,5 @@ From: [**Dick Schwartz, No Bad Parts**](https://ifs-institute.com/nobadparts)
 **Note:** The original exercise in *No Bad Parts* is more meditation-based. I tweaked it here to include writing and drawing, which can help you step back and observe.
 
 [↑ Back to top](#exercises-top)
+
+</div>
