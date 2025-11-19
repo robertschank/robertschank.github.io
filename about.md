@@ -33,9 +33,3 @@ I go by Bob,
 Thanks for coming by.
 
 <br />
-
----
-
-Why journaling?
-
-Something about catching the action on paper makes it easier to see what you're working with.

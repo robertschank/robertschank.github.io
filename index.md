@@ -92,3 +92,10 @@ Get to know the part of you that takes over.
 ---
 
 ---
+
+<br />
+
+**Why journaling?**
+
+Something about catching the action on paper makes it easier to see what you're working with.
+
