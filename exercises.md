@@ -131,7 +131,7 @@ Move slowly through the four questions, keeping your focus on this one thought. 
 
 #### Turn it around
 
-**Find the opposites** - Flip your original statement in different directions:
+**Find the opposites** - Flip your original statement ("He doesn't respect me") in different directions:
 
 - To the opposite: "He *does* respect me"
 - To yourself: "*I* don't respect myself"
