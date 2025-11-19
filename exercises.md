@@ -89,7 +89,7 @@ Get to know the part of you that takes over.
 
 **Context:** "The Work" explores how we suffer when our thoughts argue with reality. The four questions help you investigate those thoughts and shift your perspective.
 
-It sounds too simple (it is simple). The practice works by slowing down enough to feel the difference between believing a thought and questioning it.
+It sounds too simple. The practice works by slowing down enough to feel the difference between believing a thought and questioning it.
 
 **Good for:**
 - Relief from intrusive thoughts
@@ -102,15 +102,23 @@ It sounds too simple (it is simple). The practice works by slowing down enough t
 
 <div class="how-it-works" markdown="1"> 
 
-### Steps:
+## Steps:
+
+<br />
 
 **Settle in** - Find a quiet space. Let your mind settle (as much as it will).
 
-**Pick a thought** - Start by pointing your finger outward. Choose a statement about someone or something that's bothering you: "Charlie doesn't respect me,"  "My boss is unfair." Don't start with yourself ("I'm not good enough")—that comes later.
+**Pick a thought** - Choose a statement about someone or something that's bothering you. Start with something petty, and point your finger outward:
+* "Charlie doesn't respect me."
+* "This meeting is pointless."
+
+Don't start with yourself ("I'm not good enough")—that comes later.
 
 **Write it down simply** — With as few words as possible while keeping the original meaning
 
-#### The Four Questions
+### The Four Questions
+Move slowly through the four questions, keeping your focus on this one thought. Let the answers come rather than think them up.
+
 1. **Is it true?** - Yes or no answers only. Sit with it for a moment if you're answering with more than a yes or a no.
 
 1. **Can you absolutely know that it's true?** - Can you know with absolute certainty? Again, yes or no only
@@ -161,11 +169,13 @@ It sounds too simple (it is simple). The practice works by slowing down enough t
 **Entry Point:** Emotions, sensations
 
 <div class="how-it-works" markdown="1"> 
-**⚠️ Heads up:** This method can uncover buried emotions or painful material. If something feels too big; pausing, reassessing, and seeking help is encouraged.  
+**⚠️ Heads up:** This method can uncover buried emotions or painful material. If something feels too big—pausing, reassessing, and seeking help is encouraged.  
 
 <br />
 
-### Steps:
+## Steps:
+
+<br />
 
 **Settle in** - Find a quiet space. Let your mind settle (as much as it will).
 
@@ -182,13 +192,14 @@ It sounds too simple (it is simple). The practice works by slowing down enough t
 
 **Talk to it** - You can speak to this part silently, out loud, or write to it on paper. Extend curiosity, compassion, and appreciation. The idea is you're having a conversation with someone who matters.
 
-**Ask and listen** - Pose each question below, one at a time, and wait quietly for a response. You might get clear responses, vague impressions, or nothing at all. The act of asking and listening is the practice.
+**Ask and listen** - Pose each question below, one at a time, and wait quietly. Let responses come rather than think them up. You might get clear answers, vague impressions, or nothing at all. The act of asking and listening is the practice.
+
    - Is there anything you'd like me to know?
    - What are you protecting me from?
    - Pause and recognize this part's good intention. Offer some gratitude. Notice how it responds.
    - What do you need from me going forward?
 
-**Write what comes** - If images, words, or sensations arise, jot them down. Or write the whole conversation.
+**Write what comes** - If images, words, or sensations arise, jot them down.
 
 **Close with gratitude** - Thank the part for whatever it allowed or shared, and let it know you'll check in again.
 
