@@ -16,7 +16,7 @@ The exercises are simple, the depth comes from showing up and letting them do th
 If you're interested in working towards authenticity—maybe it's for you.
 
 * [Three exercises](/exercises)
-* [Weekly Sunday meetings](https://meet.google.com/dfy-ytkx-qey) (Coming soon)
+* [Weekly Sunday meetings](https://meet.google.com/dfy-ytkx-qey)
 * [Discord community](https://discord.gg/tWQx3pxHpN)
 <!-- * Three exercises - free (they're not mine) -->
 <!-- * Weekly Sunday meetings - free -->

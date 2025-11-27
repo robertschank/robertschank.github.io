@@ -16,7 +16,7 @@ We're working on it as we go.
 **Sunday Meetings: Sundays 9-9:30 AM** Pacific Time  
 
 * Check-ins / discussions / whatever comes up
-* (Coming soon) [Join on Google Meet](https://meet.google.com/dfy-ytkx-qey)
+* [Join on Google Meet](https://meet.google.com/dfy-ytkx-qey)
 
 **Discord Community:**  
 

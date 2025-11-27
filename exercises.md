@@ -116,7 +116,7 @@ Don't start with yourself ("I'm not good enough")—that comes later.
 
 **Write it down simply** — With as few words as possible while keeping the original meaning
 
-### The Four Questions
+### The Four Questions:
 Move slowly through the four questions, keeping your focus on this one thought. Let the answers come rather than think them up.
 
 1. **Is it true?** - Yes or no answers only. Sit with it for a moment if you're answering with more than a yes or a no.
@@ -129,15 +129,13 @@ Move slowly through the four questions, keeping your focus on this one thought. 
 
 1. **Who would you be without that thought?** - Imagine yourself in the same situation, but without this belief. Who are you? How do you feel?
 
-#### Turn it around
-
-**Find the opposites** - Flip your original statement ("He doesn't respect me") in different directions:
+**Find the "Turnarounds"** - Flip your original thought ("He doesn't respect me") in different directions:
 
 - To the opposite: "He *does* respect me"
-- To yourself: "*I* don't respect myself"
+- To yourself: "*I* don't respect *myself*"
 - To the other person/thing: "*I* don't respect *him*"
 
-**Find three examples** - For each turnaround that resonates, find three specific examples of how it might be as true, or truer than your original thought.
+**Find three examples** - For each turnaround that resonates, find three specific examples of how it might be as true (or truer) than your original thought.
 
 **Sit with it** - Notice the difference in your state between question 3 and question 4. Take a moment with the turnarounds. Leave a little space for your mind to see things differently.
 
