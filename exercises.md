@@ -108,8 +108,9 @@ It sounds too simple. The practice works by slowing down enough to feel the diff
 
 **Settle in** - Find a quiet space. Let your mind settle (as much as it will).
 
-**Pick a thought** - Choose a statement about someone or something that's bothering you. Start with something petty, and point your finger outward:
-* "Charlie doesn't respect me."
+**Pick a thought** - Choose a statement about someone or something that's bothering you. Start with something light and petty, and point your finger outward:
+* "That guy is just trying to look smart."
+* "She gave me a mean look."
 * "This meeting is pointless."
 
 Don't start with yourself ("I'm not good enough")—that comes later.
