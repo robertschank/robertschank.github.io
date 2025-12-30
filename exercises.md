@@ -111,7 +111,7 @@ It sounds too simple. The practice works by slowing down enough to feel the diff
 **Pick a thought** - Choose a statement about someone or something that's bothering you. Start with something light and petty, and point your finger outward:
 * "That guy is just trying to look smart."
 * "She gave me a condescending look."
-* "My boss should acknowledge my competency."
+* "My boss should be respectful."
 
 Don't start with yourself ("I'm *this* way", "I said *that* thing")—that comes later.
 
