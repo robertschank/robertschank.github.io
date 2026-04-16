@@ -17,9 +17,9 @@ Until someone dethrones the champ, we'll be focusing on Byron Katie's work. Most
 ---
 
 ## <a id="four-questions-full"></a> Four Questions
-Source: [Byron Katie, *Loving What Is*](https://thework.com/books/)
+From: [Byron Katie, *Loving What Is*](https://thework.com/books/)
 
-**Context:** "The Work" explores how we suffer when our thoughts argue with reality. The four questions help you investigate those thoughts and shift your perspective.
+"The Work" explores how we suffer when our thoughts argue with reality. The four questions help you investigate those thoughts and shift your perspective.
 
 The practice works by slowing down enough to feel the difference between believing a thought and questioning it.
 
