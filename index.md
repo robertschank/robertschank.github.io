@@ -8,7 +8,7 @@ layout: page
 Until someone dethrones the champ, we'll be focusing on Byron Katie's work. Mostly her Four Questions exercise.
 
 **Sunday Meetings: Sundays 9-9:30 AM** Pacific Time  
-* Someone walks someone else through a Four Questions exercise 
+* Someone walks someone else through a four questions exercise 
 * [Join on Google Meet](https://meet.google.com/dfy-ytkx-qey)
 
 <br />
