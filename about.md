@@ -1,7 +1,7 @@
----
+<!-- ---
 title: About
 layout: page
----
+--- -->
 
 Feeling misaligned in life is... not great.
 
@@ -25,6 +25,11 @@ If you're interested in working towards authenticity—maybe it's for you.
 ---
 
 <br />
+
+**Why journaling?**
+
+Something about catching the action on paper makes it easier to see what you're working with.
+
 
 <img src="/assets/images/bob_bartending.jpg" alt="About-page-self-photo" width="285">
 

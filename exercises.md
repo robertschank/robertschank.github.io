@@ -1,7 +1,7 @@
----
+<!-- ---
 title: Exercises
 layout: page
----
+--- -->
 <a id="exercises-top"></a>
 ---
 ---

@@ -5,99 +5,81 @@ layout: page
 
 # Welcome
 
-A place for reflective writing and inner-work.
-
-We use three time-tested practices. Try them on your own. Meet on Sundays to share, connect, or lurk.
-
-We're working on it as we go.
-
-[See the exercises →](/exercises)
+Until someone dethrones the champ, we'll be focusing on Byron Katie's work. Mostly her Four Questions exercise.
 
 **Sunday Meetings: Sundays 9-9:30 AM** Pacific Time  
-
-* Check-ins / discussions / whatever comes up
+* Someone walks someone else through a Four Questions exercise 
 * [Join on Google Meet](https://meet.google.com/dfy-ytkx-qey)
 
-**Discord Community:**  
-
-* Connect on your own time
-* [Join the server](https://discord.gg/tWQx3pxHpN) to learn more
-
 <br />
 
 ---
 ---
 
-# <a id="exercises-quick-view"></a>Exercises Quick View
+## <a id="four-questions-full"></a> Four Questions
+Source: [Byron Katie, *Loving What Is*](https://thework.com/books/)
 
-Pick an exercise based on your day.
+**Context:** "The Work" explores how we suffer when our thoughts argue with reality. The four questions help you investigate those thoughts and shift your perspective.
 
----
+The practice works by slowing down enough to feel the difference between believing a thought and questioning it.
 
-<div class="exercise-quick-view" markdown="1"> 
+<div class="how-it-works" markdown="1"> 
 
-### [Morning Pages](/exercises#morning-pages-full)
+## Steps:
 
-[Julia Cameron, *The Artist's Way*](https://juliacameronlive.com/books-by-julia/)
+**Find a quiet space.** Let your mind settle.
 
-Put whatever's in your head on paper.
+**Pick a thought** - Start with something light and petty, and point your finger outward
 
-🌶️ Mild — Start here
+One way to find a thought:
 
-**Good For:** Building an inner practice, creativity, clarity, focus 
+I complain about __________ because __________
+
+* I complain about *my boss* because *he doesn't listen to me*
+* ~~I complain about~~ *my boss* ~~because~~ *he doesn't listen to me*
+* <ins>My boss doesn't listen to me</ins>
+
+Side note: It may be tempting to work on yourself ("I'm *this* way", "I said *that* thing"). Let's find a side door instead. Point your finger outward!
+
+### The Four Questions:
+Take your thought and move slowly through the questions, keeping your focus on this one thought. Let the answers come rather than think them up.
+
+1. **Is it true?** - Yes or no only. Sit with it if you need a moment. Even a tiny "yes" or "I don't know" counts as a yes.
+
+1. **Can you absolutely know that it's true?** - Again, yes or no only
+
+1. **How do you react, what happens, when you believe that thought?** - Notice everything. How does it feel in your body? How do you see yourself and others? What images play in your mind? 
+
+   Stay with your original thought. You might find yourself thinking "[Original thought], *and that means _____*." A new thought is filling in the blank. You can jot it down for later, but for now come back to the first one.
+
+   Keep going until this feels complete
+
+1. **Who would you be without that thought?** - Imagine yourself in the same situation, but without this belief. Who are you? How do you feel?
+
+**Find the "Turnarounds"** - Flip your original thought in different directions. For each turnaround that resonates, find **three examples** of how it might be as true or truer.
+
+- To the opposite: 
+   - "My boss *does* listen to me"
+      - [example 1]
+      - [example 2]
+      - [example 3]
+- To the other person/thing:
+   - "*I* don't listen to *him*"
+      - [example 1]
+      - [example 2]
+      - [example 3]
+- To yourself:
+   - "*I* don't listen to *myself*"
+      - [example 1]
+      - [example 2]
+      - [example 3]      
+
+**Sit with it** - Notice the difference in your state between question 3 and question 4. Take a moment with the turnarounds. Leave a little space for your mind to see things differently.
+
+</div> 
+
+**Going Further:** Check out Byron Katie's [How to page](https://thework.com/instruction-the-work-byron-katie/#additional-resources-documents).
 
 <br />
 
-</div>
-
 ---
-
-<div class="exercise-quick-view" markdown="1"> 
-
-### [Four Questions](/exercises#four-questions-full)
-
-[Byron Katie, *Loving What Is*](https://thework.com/books/)
-
-Question a thought until it loses its grip.
-
-🌶️🌶️ Medium
-
-**Good For:** Release from stressful thoughts, questioning your stories  
-
-<br />
-
-</div>
-
----
-
-<div class="exercise-quick-view" markdown="1"> 
-
-### [Meet a Protector](/exercises#meet-a-protector-full)
-
-[Dick Schwartz, *No Bad Parts*](https://ifs-institute.com/nobadparts)
-
-Get to know the part of you that takes over.
-
-🌶️🌶️🌶️ Hot
-
-**Good For:**
-   - Calming intense emotions
-   - Exploring your internal landscape
-   - Processing something big
-
-<!-- <br /> -->
-
-</div>
-
----
-
----
-
-<br />
-
----
-
-**Why journaling?**
-
-Something about catching the action on paper makes it easier to see what you're working with.
-
