@@ -15,8 +15,9 @@ Until a new champion is crowned, we'll be focusing on the work of Byron Katie. M
 
 ---
 ---
+<br />
 
-## <a id="four-questions-full"></a> Four Questions
+## <a id="four-questions-full"></a> **Four Questions**
 From: [Byron Katie, *Loving What Is*](https://thework.com/books/)
 
 "The Work" explores how we suffer when our thoughts argue with reality. The Four Questions help you investigate those thoughts and shift your perspective.
@@ -25,7 +26,11 @@ The practice works by slowing down enough to feel the difference between believi
 
 <div class="how-it-works" markdown="1"> 
 
-## Steps:
+<!-- <br /> -->
+
+## <ins>Steps:</ins>
+
+<br />
 
 **Find a quiet space.** Let your mind settle.
 
@@ -41,9 +46,20 @@ Just start writing and you'll probably land somewhere. Or here's a starter:
 
 Side note: It may be tempting to work on yourself ("I'm *this* way", "I said *that* thing"). Let's find a side door instead. Point your finger outward!
 
----
+<!-- <br /> -->
+
+<!-- --- -->
+
+
+
+<div class="four-questions" markdown="1">
+
+<br />
 
 ### The Four Questions:
+
+<br />
+
 Take your thought and move slowly through the questions, keeping your focus on this one thought. Let the answers come rather than think them up.
 
 1. **Is it true?** - Yes or no only. Sit with it if you need a moment. Even a tiny "yes" or "I don't know" counts as a yes.
@@ -75,6 +91,8 @@ Take your thought and move slowly through the questions, keeping your focus on t
       - [example 1]
       - [example 2]
       - [example 3]
+
+</div>
 
 ---
 
