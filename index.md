@@ -5,10 +5,10 @@ layout: page
 
 # Welcome
 
-Until someone dethrones the champ, we'll be focusing on the work of Byron Katie. Mostly her Four Questions exercise.
+Until a new champion is crowned, we'll be focusing on the work of Byron Katie. Mostly her Four Questions exercise.
 
 **Sunday Meetings: Sundays 9-9:30 AM** Pacific Time  
-* Someone walks someone else through a Four Questions exercise 
+* Someone walks someone else through a Four Questions exercise
 * [Join on Google Meet](https://meet.google.com/dfy-ytkx-qey)
 
 <br />
@@ -29,9 +29,9 @@ The practice works by slowing down enough to feel the difference between believi
 
 **Find a quiet space.** Let your mind settle.
 
-**Pick a thought** - Start with something light and petty, and point your finger outward
+**Pick a thought** - Start with something light and petty, and point your finger outward. Write it down with as few words as possible, while keeping the original meaning.
 
-One way to find a thought:
+Just start writing and you'll probably land somewhere. Or here's a starter:
 
 **I complain about __________ because __________**
 
@@ -48,7 +48,7 @@ Take your thought and move slowly through the questions, keeping your focus on t
 
 1. **Is it true?** - Yes or no only. Sit with it if you need a moment. Even a tiny "yes" or "I don't know" counts as a yes.
 
-1. **Can you *absolutely know* that it's true?** - Again, yes or no only
+1. **Can you *absolutely know* that it's true?** - Again, yes or no only.
 
 1. **How do you react, what happens, when you believe that thought?** - Notice everything. How does it feel in your body? How do you see yourself and others? What images play in your mind? 
 
