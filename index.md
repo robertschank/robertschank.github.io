@@ -22,8 +22,6 @@ From: [Byron Katie, *Loving What Is*](https://thework.com/books/)
 
 "The Work" explores how we suffer when our thoughts argue with reality. The Four Questions help you investigate those thoughts and shift your perspective.
 
-The practice works by slowing down enough to feel the difference between believing a thought and questioning it.
-
 <div class="how-it-works" markdown="1"> 
 
 <!-- <br /> -->
