@@ -7,7 +7,7 @@ layout: page
 
 Until a new champion is crowned, we'll be focusing on the work of Byron Katie. Mostly her Four Questions exercise.
 
-**Sunday Meetings: Sundays 9-9:30 AM** Pacific Time  
+**Sunday Meetings: Sundays 10-10:30 AM** Pacific Time  
 * Someone walks someone else through a Four Questions exercise
 * [Join on Google Meet](https://meet.google.com/dfy-ytkx-qey)
 
@@ -36,13 +36,13 @@ From: [Byron Katie, *Loving What Is*](https://thework.com/books/)
 
 Just start writing and you'll probably land somewhere. Or here's a starter:
 
-**I complain about __________ because __________**
+**I complain about __________ because __________.**
 
-* I complain about *my boss* because *he doesn't listen to me*
-* ~~I complain about~~ *my boss* ~~because~~ *he doesn't listen to me*
-* <ins>My boss doesn't listen to me</ins>
+* I complain about *my boss* because *he doesn't listen to me*.
+* ~~I complain about~~ *my boss* ~~because~~ *he doesn't listen to me*.
+* <ins>My boss doesn't listen to me.</ins>
 
-Side note: It may be tempting to work on yourself ("I'm *this* way", "I said *that* thing"). Let's find a side door instead. Point your finger outward!
+Side note: It may be tempting to work on yourself ("I'm *this* way", "I said *that* thing."). Let's find a side door instead. Point your finger outward!
 
 <!-- <br /> -->
 
