@@ -24,11 +24,7 @@ From: [Byron Katie, *Loving What Is*](https://thework.com/books/)
 
 <div class="how-it-works" markdown="1"> 
 
-<!-- <br /> -->
-
 ## <ins>Steps:</ins>
-
-<br />
 
 **Find a quiet space.** Let your mind settle.
 
@@ -44,19 +40,13 @@ Just start writing and you'll probably land somewhere. Or here's a starter:
 
 Side note: It may be tempting to work on yourself ("I'm *this* way", "I said *that* thing."). Let's find a side door instead. Point your finger outward!
 
-<!-- <br /> -->
-
-<!-- --- -->
-
-
+<br />
 
 <div class="four-questions" markdown="1">
 
-<br />
+
 
 ### The Four Questions:
-
-<br />
 
 Take your thought and move slowly through the questions, keeping your focus on this one thought. Let the answers come rather than think them up.
 
@@ -91,8 +81,6 @@ Take your thought and move slowly through the questions, keeping your focus on t
       - [example 3]
 
 </div>
-
----
 
 <br />
 
