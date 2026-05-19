@@ -68,7 +68,7 @@ Get to know the part of you that takes over.
 
 - **Aim for three pages of longhand, stream of consciousness writing** - Three pages can be a lot, anything counts.
 
-- **Before you start your day** - Give your monkey-mind thoughts a place to exist on paper. Maybe they'll leave you alone.
+- **Before you start your day** - Give your monkey-mind thoughts a place to exist on paper.
 
 - **Write whatever comes:** Petty complaints, to-do lists, dreams, worries, random observations. This is meant to be messy and unfiltered. It's a chance for you to accept anything your mind comes up with.
 
@@ -89,7 +89,7 @@ Get to know the part of you that takes over.
 
 **Context:** "The Work" explores how we suffer when our thoughts argue with reality. The four questions help you investigate those thoughts and shift your perspective.
 
-It sounds too simple. The practice works by slowing down enough to feel the difference between believing a thought and questioning it.
+The practice works by slowing down enough to feel the difference between believing a thought and questioning it.
 
 **Good for:**
 - Relief from intrusive thoughts
@@ -106,37 +106,57 @@ It sounds too simple. The practice works by slowing down enough to feel the diff
 
 <br />
 
-**Settle in** - Find a quiet space. Let your mind settle (as much as it will).
+**Settle in** - Find a quiet space. Let your mind settle.
 
-**Pick a thought** - Choose a statement about someone or something that's bothering you. Start with something light and petty, and point your finger outward:
-* "That guy is just trying to look smart."
-* "She gave me a condescending look."
-* "My boss should be respectful."
+**Pick a thought** - Start with something light and petty, and point your finger outward. Write it down with as few words as possible, while keeping the original meaning.
 
-Don't start with yourself ("I'm *this* way", "I said *that* thing")—that comes later.
+Just start writing and you'll probably land somewhere. Or here's a starter:
 
-**Write it down simply** — With as few words as possible while keeping the original meaning
+**I complain about __________ because __________.**
+
+* I complain about *my boss* because *he doesn't listen to me*.
+* ~~I complain about~~ *my boss* ~~because~~ *he doesn't listen to me*.
+* <ins>My boss doesn't listen to me.</ins>
+
+Side note: It may be tempting to work on yourself ("I'm *this* way", "I said *that* thing."). Let's find a side door instead. Point your finger outward!
+
+<div class="four-questions" markdown="1">
 
 ### The Four Questions:
-Move slowly through the four questions, keeping your focus on this one thought. Let the answers come rather than think them up.
 
-1. **Is it true?** - Yes or no answers only. Sit with it for a moment if you're answering with more than a yes or a no.
+Take your thought and move slowly through the questions, keeping your focus on this one thought. Let the answers come rather than think them up.
 
-1. **Can you absolutely know that it's true?** - Can you know with absolute certainty? Again, yes or no only
+1. **Is it true?** - Yes or no only. Sit with it if you need a moment. Even a tiny "yes" or "I don't know" counts as a yes.
+
+1. **Can you *absolutely know* that it's true?** - Again, yes or no only.
 
 1. **How do you react, what happens, when you believe that thought?** - Notice everything. How does it feel in your body? How do you see yourself and others? What images play in your mind? 
 
-   Stay with your original thought. You might find yourself thinking "[Original thought], *and that means _____*." A new thought is filling in the blank. Jot it down for later if you like, but for now come back to the first one.
+   <!-- Stay with your original thought. You might find yourself thinking "[Original thought], *and that means _____*." A new thought is filling in the blank. You can jot it down for later, but for now come back to the first one. -->
 
-1. **Who would you be without that thought?** - Imagine yourself in the same situation, but without this belief. Who are you? How do you feel?
+   Staying with the thought, keep going until this feels complete.
 
-**Find the "Turnarounds"** - Flip your original thought ("He doesn't respect me") in different directions:
+1. **Who would you be without that thought?** - Imagine yourself in the same situation, but without this belief. How do you feel? What do you see?
 
-- To the opposite: "He *does* respect me"
-- To yourself: "*I* don't respect *myself*"
-- To the other person/thing: "*I* don't respect *him*"
+**Find the "Turnarounds"** - Take your original thought and flip it around. For each turnaround that resonates, find **three examples** of how it might be as true or truer.
 
-**Find three examples** - For each turnaround that resonates, find three specific examples of how it might be as true (or truer) than your original thought.
+- To the opposite: 
+   - **"My boss *does* listen to me"**
+      - [example 1]
+      - [example 2]
+      - [example 3]
+- To the other person/thing:
+   - **"*I* don't listen to *him*"**
+      - [example 1]
+      - [example 2]
+      - [example 3]
+- To yourself:
+   - **"*I* don't listen to *myself*"**
+      - [example 1]
+      - [example 2]
+      - [example 3]
+
+</div>
 
 **Sit with it** - Notice the difference in your state between question 3 and question 4. Take a moment with the turnarounds. Leave a little space for your mind to see things differently.
 
@@ -203,8 +223,6 @@ Move slowly through the four questions, keeping your focus on this one thought. 
 **Close with gratitude** - Thank the part for whatever it allowed or shared, and let it know you'll check in again.
 
 </div>
-
-**Note:** The original exercise in *No Bad Parts* is more meditation-based. I tweaked it here to include writing and drawing, which can help you step back and observe.
 
 [↑ Back to top](#exercises-top)
 

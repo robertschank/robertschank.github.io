@@ -44,8 +44,6 @@ Side note: It may be tempting to work on yourself ("I'm *this* way", "I said *th
 
 <div class="four-questions" markdown="1">
 
-
-
 ### The Four Questions:
 
 Take your thought and move slowly through the questions, keeping your focus on this one thought. Let the answers come rather than think them up.
