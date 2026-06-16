@@ -7,9 +7,11 @@ layout: page
 
 Until a new champion is crowned, we'll be focusing on the work of Byron Katie. Mostly her Four Questions exercise.
 
-**Sunday Meetings: Sundays 10-10:30 AM** Pacific Time  
-* Someone walks someone else through a Four Questions exercise
-* [Join on Google Meet](https://meet.google.com/dfy-ytkx-qey)
+# Update: Sorry to say journal club meetings are cancelled until further notice! 
+
+~~**Sunday Meetings: Sundays 10-10:30 AM** Pacific Time~~  
+~~* Someone walks someone else through a Four Questions exercise~~
+~~* [Join on Google Meet](https://meet.google.com/dfy-ytkx-qey)~~
 
 <br />
 
